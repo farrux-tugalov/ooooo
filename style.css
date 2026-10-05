@@ -1,0 +1,38 @@
+
+.body{
+
+    background-color: aqua;
+}
+
+
+
+
+.h1{
+text-align: center;
+color: rgb(0, 0, 0);
+
+}
+
+.div1{
+text-align: center;
+width: 800px;
+background-attachment:wswhite;
+border: 5px black;
+color: rgb(0, 0, 0);
+
+}
+
+.label{
+    padding: 15px;
+    color: black;
+    width: auto;
+}
+
+.tugma{
+background-color: rgb(47, 1, 155);
+
+}
+
+
+
+
